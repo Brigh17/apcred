@@ -4,7 +4,7 @@ import joblib
 import os
 
 # Chemin vers le modèle
-model_path = r"C:\Users\HP 840 G5\Desktop\PROJET FINAL\xgboost_loan_model.joblib"
+model_path = r"xgboost_loan_model.joblib"
 
 # Chargement du modèle avec gestion d'erreur
 try:
